@@ -37,3 +37,5 @@ console.log("Changes for 2nd commit")
 console.log("Changes for 3rd commit")
 
 console.log("New changes to main after branching")
+
+console.log("Branch changes")
